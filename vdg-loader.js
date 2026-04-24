@@ -7,7 +7,7 @@
   if (!client) return;
 
   const sc = document.createElement("script");
-  sc.src = "https://cdn.jsdelivr.net/gh/vdgpath/vdgpath@main/vdg-attributor-v1.2.1.js";
+  sc.src = "https://cdn.jsdelivr.net/gh/vdgpath/vdgpath@main/vdg-attributor-v1.2.2.js";
   sc.defer = true;
   sc.setAttribute("data-sc-client", client);
 
